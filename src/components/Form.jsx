@@ -15,7 +15,7 @@ const Form = () => {
   return (
     <div className="grid dark:bg-gray-800 dark:text-slate-50 md:grid-cols-2 gap-2xl p-xl bg-white rounded-lg">
       <div>
-        <h2 className="text-xl font-bold uppercase">
+        <h2 className="text-xl font-barlow font-bold uppercase">
           Get started with careerist
         </h2>
         <p className="text-md mt-md">

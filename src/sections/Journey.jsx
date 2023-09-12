@@ -25,7 +25,7 @@ const Journey = () => {
   return (
     <div className="wrapper gap-xl flex-col md:flex-row flex justify-between items-center py-3xl text-white">
       <div className="flex-1">
-        <h2 className="text-xl uppercase max-w-[16ch] font-bold leading-tight">
+        <h2 className="text-xl font-barlow uppercase max-w-[16ch] font-bold leading-tight">
           the careerist journey
         </h2>
         <div className="mt-2xl flex-1">

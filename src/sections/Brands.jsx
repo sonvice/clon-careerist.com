@@ -10,9 +10,9 @@ import { Parallax } from "react-scroll-parallax";
 
 const Brands = () => {
   return (
-    <div className=" mt-3xl">
+    <div className="overflow-hidden mt-3xl">
       <div className="wrapper dark:text-slate-50">
-        <h2 className="text-xl py-xl font-bold leading-tight uppercase max-w-[20ch]">
+        <h2 className="text-xl font-barlow py-xl font-bold leading-tight uppercase max-w-[26ch]">
           Careerist Graduates Have Been Hired By:
         </h2>
       </div>

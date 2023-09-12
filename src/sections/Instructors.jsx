@@ -4,7 +4,7 @@ const Instructors = () => {
   return (
     <div className="py-xl">
       <div className="flex flex-col dark:text-slate-50 md:flex-row justify-between gap-md mb-lg py-md">
-        <h2 className="text-xl font-bold uppercase max-w-[16ch] leading-tight">
+        <h2 className="text-xl font-barlow font-bold uppercase max-w-[16ch] leading-tight">
           meet your instructors
         </h2>
         <p className="text-md max-w-[30ch] leading-snug">

@@ -60,9 +60,9 @@ const Slider = () => {
                 <img src={instructor.img} alt="Image 1" />
               </div>
               <div className="flex pt-lg">
-                <div className="relative ml-[-5.25rem] group-hover:ml-[0] transition-[margin] ease-in-out duration-300">
-                  <span className="ml-2xl"> Patrick Siebenthal</span>
-                    <span className=" after:bg-slate-5 after:rotate-45 after:translate-y-[-50%] after:w-[1rem]   after:border-r after:border-t  after:h-[1rem] after:top-[1px] after:absolute after:right-[1px] group-hover:bg-gray-light left-[0] right-md absolute top-1/2 h-[1.5px]  bg-slate-50 translate-x-[-75%]"></span>
+                <div className="relative md:ml-[-5.25rem] group-hover:ml-[0] transition-[margin] ease-in-out duration-300">
+                  <span className="md:ml-2xl"> Patrick Siebenthal</span>
+                    <span className="max-md:hidden after:bg-slate-5 after:rotate-45 after:translate-y-[-50%] after:w-[1rem]   after:border-r after:border-t  after:h-[1rem] after:top-[1px] after:absolute after:right-[1px] group-hover:bg-gray-light left-[0] right-md absolute top-1/2 h-[1.5px]  bg-slate-50 translate-x-[-75%]"></span>
                   </div>
 
                 </div>

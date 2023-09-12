@@ -7,7 +7,7 @@ const TechCareer = () => {
     <div className="mb-3xl">
       <div className="flex dark:text-slate-50  flex-col md:flex-row justify-between gap-xl items-center pt-3xl pb-xl">
         <div className="basis-[40%] z-10">
-          <h2 className="text-xl max-lg:text-md font-bold uppercase max-w-[14ch] leading-tight">
+          <h2 className="text-xl font-barlow max-lg:text-md font-bold uppercase max-w-[14ch] leading-tight">
             tech career for all
           </h2>
           <p className="text-md max-lg:text-base mt-lg">

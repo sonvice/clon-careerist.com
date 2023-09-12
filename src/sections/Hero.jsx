@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="flex flex-col lg:flex-row gap-md dark:text-slate-50">
       <div className="basis-2/3">
-        <h1 className="text-2xl font-bold uppercase leading-[1.2]">Grow your <br />
+        <h1 className="text-2xl font-bold font-barlow uppercase leading-[1.2]">Grow your <br />
         <img className="h-2xl inline-block"  src={iconTitle} alt="Icon title" />
         <span className="text-stroke dark:text- align-middle">carrer</span>
         <br />
