@@ -13,7 +13,6 @@ const Slider = () => {
             next: "right-[-4em] w-[3em] h-[3em]",
           },
           arrowPath: "",
-          arrows: true,
           rewind: true,
           perPage: 3,
           easing: "ease",
@@ -23,9 +22,13 @@ const Slider = () => {
           breakpoints: {
             0: {
               perPage: 1,
+              arrows: false,
+              pagination:true,
             },
             768: {
               perPage: 2,
+              pagination:false,
+          arrows: true,
             },
             1280: {
               perPage: 3,

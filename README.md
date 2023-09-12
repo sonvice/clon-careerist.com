@@ -2,7 +2,7 @@
 
 Este proyecto es un clon de la página web "careerist.com" desarrollado en React. Careerist es una plataforma líder en la búsqueda de empleo y desarrollo profesional, y este clon se ha creado con el propósito de aprender y demostrar mis habilidades en desarrollo web utilizando React y Tailwind CSS. [preview](https://clon-careerist.netlify.app/)
 
-![Landig Page Careerist](https://i.ibb.co/zxWZxcm/clon-careerist.png)
+![Landig Page Careerist](https://i.ibb.co/k22CHX2/clon-careerist.png)
 
 ## Características principales
 

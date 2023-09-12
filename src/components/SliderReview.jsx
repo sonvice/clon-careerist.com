@@ -12,7 +12,7 @@ const SliderReview = () => {
             prev: "left-[-4em] splide__arrow--prev w-[3em] h-[3em]",
             next: "right-[-4em] w-[3em] h-[3em]",
           },
-          arrows: true,
+          
           rewind: true,
           gap: "clamp(1.44rem, 1.12rem + 1.58vw, 2.25rem)",
           perPage: 3,
@@ -22,9 +22,13 @@ const SliderReview = () => {
           breakpoints: {
             0: {
               perPage: 1,
+              arrows:false,
+              pagination:true,
             },
             768: {
               perPage: 2,
+              arrows: true,
+              pagination:false,
             },
             1024: {
               perPage: 3,
