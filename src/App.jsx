@@ -14,7 +14,7 @@ function App() {
   return (
     <main className="dark:bg-gray-900">
       <Nav></Nav>
-      <section id="home" className="pt-4xl wrapper">
+      <section id="home" className="pt-5xl wrapper">
         <Hero></Hero>
       </section>
       <section className="dark:bg-gray-900">

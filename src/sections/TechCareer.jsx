@@ -10,7 +10,7 @@ const TechCareer = () => {
           <h2 className="text-xl font-barlow max-lg:text-md font-bold uppercase max-w-[14ch] leading-tight">
             tech career for all
           </h2>
-          <p className="text-md max-lg:text-base mt-lg">
+          <p className="text-base max-lg:text-base mt-lg">
             Get the career services you need to land a job, because education is
             just one piece of the job search puzzle
           </p>

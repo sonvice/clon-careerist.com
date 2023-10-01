@@ -15,7 +15,7 @@ body{
   .wrapper {
     margin-inline: auto;
     width:clamp(16rem, 86vw, 85rem) ;
-    padding-inline: clamp(1.2rem, 1.08rem + 0.59vw, 1.5rem);
+    padding-inline: clamp(0.8331rem, 0.8297rem + 0.0171vw, 0.8438rem);
     position: relative;
   }
   .text-stroke {

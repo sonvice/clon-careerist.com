@@ -7,7 +7,7 @@ const Instructors = () => {
         <h2 className="text-xl font-barlow font-bold uppercase max-w-[16ch] leading-tight">
           meet your instructors
         </h2>
-        <p className="text-md max-w-[30ch] leading-snug">
+        <p className="text-base max-w-[30ch] leading-snug">
           ​Learn from industry experts with decades of big-tech experience.
           We’re ready to help you get hired!
         </p>

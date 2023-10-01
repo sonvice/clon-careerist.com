@@ -13,7 +13,7 @@ const Footer = () => {
   return (
     <div className="wrapper py-3xl">
       <div className="grid gap-xl grid-cols-1 xl:grid-cols-3">
-        <div className="text-md">
+        <div className="text-base">
           <div className="mb-sm">
             <a className="py-[.6ex] block" href="#">
               <img src={iconLogoWhite} alt="Logo White" />
@@ -67,7 +67,7 @@ const Footer = () => {
       <div className="flex gap-xl flex-col sm:flex-row flex-wrap pt-xl mt-xl justify-between border-t-slate-50 border-t  border-opacity-50">
         <div>© Careerist, 2023</div>
         <div className="grid">
-          <ul className=" grid grid-cols-1 sm:grid-cols-3">
+          <ul className="grid grid-cols-1 sm:grid-cols-3">
             {copyFooter.map((term) =>
               term.termsRow1.map((item) => (
                 <li key={item.term} className="cursor-pointer">

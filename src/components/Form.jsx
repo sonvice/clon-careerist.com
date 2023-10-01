@@ -18,7 +18,7 @@ const Form = () => {
         <h2 className="text-xl font-barlow font-bold uppercase">
           Get started with careerist
         </h2>
-        <p className="text-md mt-md">
+        <p className="text-base mt-md">
           Get matched with a career Advisor, helping you select and enroll in
           the right program for you ask them about a free class
         </p>

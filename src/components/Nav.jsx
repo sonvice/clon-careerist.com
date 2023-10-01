@@ -53,7 +53,7 @@ const Nav = () => {
   };
 
   return (
-    <header className="bg-slate-50 dark:text-slate-50 dark:bg-gray-900 dark:border-b dark:border-gray-600  px-2xl shadow-md fixed w-full z-50 py-md lg:py-sm font-medium">
+    <header className="bg-slate-50 dark:text-slate-50 dark:bg-gray-900 dark:border-b dark:border-gray-600  px-lg md:px-2xl shadow-md fixed w-full z-50 py-md lg:py-sm font-medium">
       <nav className="flex justify-between items-center gap-sm">
         <a href="#" className="xl:mr-[4.2rem]">
           <img src={theme == "dark" ? iconLogoWhite : iconLogo} alt="Logo" />
